@@ -1,0 +1,66 @@
+body {
+	width: 1400px;
+	height: 100%;
+	margin: 0 auto;
+}
+
+header section {
+	height: 100px;
+}
+
+.floatleft {
+	float: left;
+}
+
+p {
+	display: inline-block;
+}
+
+h1 {
+	text-align: center;
+}
+
+header article {
+	background-image: url("header.jpg");
+	width: 1400px;
+	height: 400px;
+}
+
+.title {
+	font-family: "Helvetica";
+	font-size: 70px;
+	color: #ffffff;
+	text-align: center;
+	margin: auto;
+}
+
+.subtitle {
+	font-family: "Helvetica";
+	font-size: 40px;
+	color: #ffffff;
+	text-align: center;
+	margin: auto;
+}
+
+section {
+	width: 1400px;
+	height: 750px;
+	margin-top: 50px;
+}
+
+section article {
+	width: 1400px;
+	height: 380px;
+	margin: auto;
+}
+
+img {
+	float: left;
+	margin-left: 90px;
+
+}
+
+footer {
+	width: 1400px;
+	height: 400px;
+}
