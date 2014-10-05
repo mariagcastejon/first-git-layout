@@ -31,7 +31,6 @@ header article {
 	font-size: 70px;
 	color: #ffffff;
 	text-align: center;
-	margin: auto;
 }
 
 .subtitle {
@@ -62,5 +61,19 @@ img {
 
 footer {
 	width: 1400px;
-	height: 400px;
+	height: 300px;
+	background-color: #0b1822;
+}
+
+ul {
+	list-style: none;
+	float: left;
+	text-align: center;
+	font-size: 30px;
+	color: #ffffff;
+	margin-left: 140px;
+}
+
+em {
+	color: #c0c0c0;
 }
